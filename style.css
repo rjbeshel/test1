@@ -17,11 +17,12 @@ img, picture, svg, video{
     max-width: 100%;
 }
 .test {height:50px; background-color: darkolivegreen;}
-.button1 {border: none;
-  background-color: red;
+.button1 {background-color: red;
   color: white;
-  padding: 15px 32px;
+  padding:20px 40px;
   text-align: center;
   text-decoration:underline;
-  font-size: 16px;
-  cursor:grab;}
+  font-size: 30px;
+  cursor:grab;
+border-color: black;
+border-width: 10px;}
